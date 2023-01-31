@@ -1,0 +1,5 @@
+POINTS: 10
+I was shocked upon realizing that the image I had been viewing was not shot at the Colosseum as I had initially believed, but rather at a different fort.
+Can you provide me with the precise coordinates of this location?
+
+flag format: ACESCtf{xx°xx′xx″x,xx°xx′xx″x}

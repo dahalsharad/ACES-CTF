@@ -1,0 +1,8 @@
+POINTS: 20
+
+The police are on the hunt for a ruthless killer, but the suspect has vanished without a trace. No social media trail, no leads - nothing. Only a message was found, "I find social media to be a soul-sucking void of meaningless affirmation.". But then, the investigation leads to a new direction, a website with the suspect's information was found. A website that may be the final clue to find the evil behind the heinous crime. The website address is http://95.216.141.221:8080/suspect/
+
+The race against time is on, will you be able to unmask the killer and reveal their true identity before they strike again?
+
+Flag is in the form : ACESCtf{FIrstName_LastName}
+Example: If the killer's name is John Doe, the flag will be ACESCtf{John_Doe}

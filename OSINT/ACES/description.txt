@@ -1,0 +1,7 @@
+POINTS: 150
+A member of the ACES organization has been kicked out and is now seeking revenge by planting a bomb in their head office. The only way to diffuse the bomb is to have the diffuse code, which the vengeful member has taken with her. ACES has erased all of her information from their website, but a trail of clues still remains.
+
+The clock is ticking and the fate of the organization hangs in the balance. Can you uncover the information needed to find the diffuse code and defuse the bomb before it's too late? Every click of the mouse brings you closer to the truth, but the vengeful member is always one step ahead.
+The tension is palpable as you delve deeper into the mystery, will you be able to crack the code and save the day? The website http://aces.ioepc.edu.np/ holds the key to the solution, can you find it before it's too late?
+
+Flag is in the form: ACESCtf{Diffuse code}

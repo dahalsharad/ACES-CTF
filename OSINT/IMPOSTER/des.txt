@@ -1,0 +1,7 @@
+POINTS: 80
+
+Something sinister is afoot in the office. For the past few days, my colleagues and I have been receiving a lot of spam emails. But this is no ordinary spam, it's an elaborate ruse crafted by an imposter hiding in plain sight. My suspicions are aroused and I can't shake off the feeling that the culprit is someone among us.
+Can you help me unmask the imposter and reveal their true identity before it's too late?
+Below is the snap of email we got.
+
+The flag is in the form: ACESCtf{Name_Surname}

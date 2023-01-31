@@ -1,0 +1,5 @@
+POINTS: 50
+
+The photographer of this captivating picture has posted a hashtag somewhere. FIND IT.
+
+Example: If the hashtag is #AcesTechfest5.0, the flag will be ACESCtf{#AcesTechfest5.0}

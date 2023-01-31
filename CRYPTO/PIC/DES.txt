@@ -1,0 +1,5 @@
+POINTS: 80
+
+"A picture is worth a thousand words"
+
+Flag Format: ACESCtf{decoded_string}

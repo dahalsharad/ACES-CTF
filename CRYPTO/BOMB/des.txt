@@ -1,0 +1,11 @@
+POINTS: 120
+
+Suddenly you wakeup at July 9,1941, you are a codebreaker tasked to break this: konludy{ldpoyh_gcabzo} 1111100{100000_100000}
+
+while trying to solve you hear message in radio: " Hey M4shark It's B thin
+
+Our Geiger–Müller tube's rotors are going crazy. It is detecting a lot of gamma radiation. Equipment I II III are completely destroyed.
+
+We have already plugged pair of bombs in a to z positions serially. We need extraction at position 1.12.1.14 ASAP.
+
+Now Ringing 1912, "

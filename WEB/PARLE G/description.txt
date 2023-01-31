@@ -1,0 +1,31 @@
+POINTS: 150
+
+Sherlock Holmes, the famous detective, and his partner Dr. John Watson were visited by Vijay Chauhan, the CEO of Parle G, in their office.
+
+Sherlock Holmes: So, what was so urgent that you cancelled your Hawaii vacation to see me?
+John Watson (shocked): How did you know?
+Sherlock Holmes: (sighs) Oh my god! Just look at his goddamn nails, Watson.
+(Both John and Vijay look at Vijay's nails)
+John Watson: Go on, Mr. Chauhan. Tell us what happened.
+Vijay chauhan: Somebody entered our head office and stole Parle G's secret recipe from our vault.
+John Watson (shocked): What?
+Sherlock Holmes: Go on.
+Vijay chauhan: The thief was a female, tall, and white. She left this. (Vijay takes out a paper with "Not so secret anymore." written on it and gives it to Sherlock)
+Sherlock Holmes: It's Irene.
+John Watson: Adler? But she's already dead, isn't she?
+Sherlock Holmes: No, she isn't.
+John Watson: How can you be so sure?
+Sherlock Holmes: It's her handwriting. I can even smell her perfume.
+Sherlock Holmes: But why would she do it? Unless... I know now. Somebody is using her.
+Vijay chauhan (angrily): Who? Get me his name.
+(Sherlock sighs)
+Sherlock Holmes: I thought this would be interesting. Even you can solve this, John.
+John Watson: How?
+Sherlock Holmes: http://95.216.141.221:3000/ She keeps all her secrets here.
+(John searches on laptop)
+John Watson: But it's asking for a username and password.
+Sherlock Holmes: It's too easy, John. Her username is Irene-322434 and we already cracked her password once.
+John Watson: But how can you be so sure?
+Sherlock Holmes: I am 100% sure.
+
+Log in to the website, extract the secret and find the mastermind's name.

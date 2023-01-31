@@ -1,0 +1,3 @@
+POINT:100
+
+I realised my mistake now. But this one .. I dare you to hack it. LogIn as an admin if you can. Username - admin

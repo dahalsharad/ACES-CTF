@@ -1,0 +1,3 @@
+POINTS: 10
+
+A trusted ally in the hacking community has tipped me off to a grave mistake made by someone, sensitive information has been carelessly added to the main website of Tindog. I need your help to infiltrate the site and retrieve this sensitive information before it falls into the wrong hands.

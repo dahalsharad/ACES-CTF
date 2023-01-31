@@ -1,0 +1,6 @@
+POINTS: 20
+
+I had stumbled upon a catastrophic discovery - Tetratech's servers had been brutally hacked, and sensitive files were now circulating in the wild. As I dug deeper, I uncovered a crucial file that contained the personal information of the CEO, Ruby Amara Smith, including her password. The clock was ticking as I race against time to find the password before it falls into the wrong hands.
+Will you be able to uncover the password and bring the hacker to justice, or will they slip away into the shadows? The fate of Tetratech and its CEO hangs in the balance.
+
+The flag is in the form ACESCtf{Password}
